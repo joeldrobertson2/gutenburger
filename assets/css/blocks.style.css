@@ -8,3 +8,104 @@
     margin: 1rem 0; }
   .wp-block-gutenburger-static p {
     font-size: 1.4rem; }
+.entry-content .wp-block-gutenburger-richtext,
+.wp-block-gutenburger-richtext {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .entry-content .wp-block-gutenburger-richtext h2,
+  .wp-block-gutenburger-richtext h2 {
+    color: #222;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .entry-content .wp-block-gutenburger-richtext p,
+  .wp-block-gutenburger-richtext p {
+    font-size: 1.4rem; }
+.wp-block-gutenburger-text-alignment-toolbar {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .wp-block-gutenburger-text-alignment-toolbar p {
+    font-size: 1.4rem; }
+  .wp-block-gutenburger-text-alignment-toolbar li {
+    list-style-position: inside; }
+.wp-block-gutenburger-block-alignment-toolbar {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .wp-block-gutenburger-block-alignment-toolbar h2 {
+    color: #f7b733;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .wp-block-gutenburger-block-alignment-toolbar p {
+    font-size: 1.4rem; }
+  .wp-block-gutenburger-block-alignment-toolbar li {
+    list-style-position: inside; }
+.entry-content .wp-block-gutenburger-custom-toolbar,
+.wp-block-gutenburger-custom-toolbar {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .entry-content .wp-block-gutenburger-custom-toolbar.high-contrast,
+  .wp-block-gutenburger-custom-toolbar.high-contrast {
+    background: #000;
+    border-color: #000;
+    color: white; }
+  .entry-content .wp-block-gutenburger-custom-toolbar h2,
+  .wp-block-gutenburger-custom-toolbar h2 {
+    color: #f7b733;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .entry-content .wp-block-gutenburger-custom-toolbar p,
+  .wp-block-gutenburger-custom-toolbar p {
+    font-size: 1.4rem; }
+  .entry-content .wp-block-gutenburger-custom-toolbar li,
+  .wp-block-gutenburger-custom-toolbar li {
+    list-style-position: inside; }
+.entry-content .wp-block-gutenburger-inspector-controls,
+.wp-block-gutenburger-inspector-controls {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .entry-content .wp-block-gutenburger-inspector-controls.high-contrast,
+  .wp-block-gutenburger-inspector-controls.high-contrast {
+    background: #000;
+    border-color: #000;
+    color: white; }
+  .entry-content .wp-block-gutenburger-inspector-controls h2,
+  .wp-block-gutenburger-inspector-controls h2 {
+    color: #f7b733;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .entry-content .wp-block-gutenburger-inspector-controls p,
+  .wp-block-gutenburger-inspector-controls p {
+    font-size: 1.4rem; }
+  .entry-content .wp-block-gutenburger-inspector-controls li,
+  .wp-block-gutenburger-inspector-controls li {
+    list-style-position: inside; }
+.entry-content .wp-block-gutenburger-richtext-heading,
+.wp-block-gutenburger-richtext-heading {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .entry-content .wp-block-gutenburger-richtext-heading h2,
+  .wp-block-gutenburger-richtext-heading h2 {
+    color: #222;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .entry-content .wp-block-gutenburger-richtext-heading p,
+  .wp-block-gutenburger-richtext-heading p {
+    font-size: 1.4rem; }
+.entry-content .wp-block-gutenburger-card,
+.wp-block-gutenburger-card {
+  background: rgba(254, 243, 224, 0.52);
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .entry-content .wp-block-gutenburger-card h2,
+  .wp-block-gutenburger-card h2 {
+    color: #222;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .entry-content .wp-block-gutenburger-card p,
+  .wp-block-gutenburger-card p {
+    font-size: 1.4rem; }

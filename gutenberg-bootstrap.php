@@ -19,6 +19,9 @@ namespace joelsGutenburgers;
 
 defined( 'ABSPATH' ) || exit;
 
+/**
+ * Get the url for assets.
+ */
 function get_plugin_url() {
 	return plugins_url( null, __FILE__ );
 }
