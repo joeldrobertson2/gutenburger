@@ -1,0 +1,10 @@
+.wp-block-gutenburger-static {
+  background: green;
+  border: 5px #f7b733 solid;
+  padding: 1rem; }
+  .wp-block-gutenburger-static h2 {
+    color: #222;
+    font-size: 2rem;
+    margin: 1rem 0; }
+  .wp-block-gutenburger-static p {
+    font-size: 1.4rem; }

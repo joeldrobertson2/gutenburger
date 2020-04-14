@@ -15,4 +15,12 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 
- 
+namespace joelsGutenburgers;
+
+defined( 'ABSPATH' ) || exit;
+
+function get_plugin_url() {
+	return plugins_url( null, __FILE__ );
+}
+
+require __DIR__ . '/inc/enqueue-scripts.php';
